@@ -3,4 +3,4 @@ Hello World!
 This is for familiarizing with git and also github.
 So whatever, just add some random garbage and see if it updates correctly!
 
-let's see what happens now
+This is a new idea, in a new idea branch
